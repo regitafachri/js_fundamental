@@ -13,7 +13,7 @@ const umur = 17; // integer
 const nominal = 20.5; // double
 const isHandsome = true; // boolean -> hanya ada dua yaitu true atau false
 const cars = ["honda", "toyota", "mitsubishi"]; // array
-const angkas = [1, 2, 3, 4]; // array of number
+
 const info = {
   address: "jl.semangka",
   city: "Jakarta",
