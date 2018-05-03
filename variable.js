@@ -16,7 +16,7 @@ const cars = ["honda", "toyota", "mitsubishi"]; // array
 
 const info = {
   address: "jl.semangka",
-  city: "Jakarta",
+  city: "Jak",
   Zip_code: 65123,
   isHandsome: true,
   angka: [1, 2, 3, 4]
