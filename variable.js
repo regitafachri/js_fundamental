@@ -24,6 +24,7 @@ const info = {
 // address itu key isinya namanya value
 // di variable info ada 3 properties
 
+const nama = "Regita";
 console.log(nama)
 console.log(nama + ' ' + umur) // ini mau nampilin > 1 vaiabel
 console.log(nama + ' umur saya: ' + umur)
